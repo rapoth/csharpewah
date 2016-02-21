@@ -1,3 +1,5 @@
+[![ewah MyGet Build Status](https://www.myget.org/BuildSource/Badge/ewah?identifier=f3c53281-071b-4cf2-ac49-65f7ca6c5edd)](https://www.myget.org/)
+
 CSharpEWAH
 ==
 
